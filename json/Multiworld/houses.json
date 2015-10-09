@@ -1,0 +1,9 @@
+{
+  "name": "houses",
+  "dimensionId": 14,
+  "provider": "normal",
+  "worldType": "flat",
+  "biomes": [],
+  "seed": -4603038057649374184,
+  "mapFeaturesEnabled": true
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Data of area pvpHub</comment>
+<entry key="name">pvpHub</entry>
+<entry key="x2">6</entry>
+<entry key="id">27</entry>
+<entry key="x1">-51</entry>
+<entry key="z2">-266</entry>
+<entry key="z1">-344</entry>
+<entry key="shape">BOX</entry>
+<entry key="y2">71</entry>
+<entry key="y1">62</entry>
+</properties>

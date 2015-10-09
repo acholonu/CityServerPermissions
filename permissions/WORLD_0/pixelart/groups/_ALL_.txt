@@ -1,0 +1,10 @@
+#Permissions for group _ALL_
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Fri Oct 09 14:04:59 CDT 2015
+fe.internal.zone.entry=This area is for pixel art, grab a printer and have fun\! Flying is enabled for this area
+fe.protection.break.minecraft.dirt.*=false
+fe.protection.break.minecraft.stone.*=false
+fe.protection.break.tile.stone.*=false
+fe.protection.inventorygroup=pixelart
+fe.protection.zone.command=/capabilities %p allowflying true

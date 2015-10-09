@@ -1,0 +1,53 @@
+{
+  "enabled": false,
+  "center": {
+    "x": -29,
+    "y": 5,
+    "z": -316
+  },
+  "size": {
+    "x": 32768,
+    "y": 0,
+    "z": 32768
+  },
+  "shape": "BOX",
+  "effects": [
+    {
+      "message": "You left the worldborder. Please return!",
+      "interval": 6000,
+      "triggerDistance": 16,
+      "type": "EffectMessage"
+    },
+    {
+      "damage": 1,
+      "triggerDistance": 8,
+      "type": "EffectDamage"
+    },
+    {
+      "triggerDistance": 0,
+      "type": "EffectKnockback"
+    },
+    {
+      "triggerDistance": -1000,
+      "type": "EffectKick"
+    },
+    {
+      "potionEffects": [
+        {
+          "id": 9,
+          "duration": 5,
+          "modifier": 0
+        }
+      ],
+      "interval": 2000,
+      "triggerDistance": -1000,
+      "type": "EffectPotion"
+    },
+    {
+      "command": "/say @player Go back while you still can!",
+      "interval": 0,
+      "triggerDistance": -1000,
+      "type": "EffectCommand"
+    }
+  ]
+}

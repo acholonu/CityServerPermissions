@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Data of area cwaitroom</comment>
+<entry key="name">cwaitroom</entry>
+<entry key="x2">18</entry>
+<entry key="id">40</entry>
+<entry key="x1">8</entry>
+<entry key="z2">-178</entry>
+<entry key="z1">-187</entry>
+<entry key="shape">BOX</entry>
+<entry key="y2">58</entry>
+<entry key="y1">56</entry>
+</properties>

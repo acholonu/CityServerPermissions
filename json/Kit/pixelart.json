@@ -1,0 +1,30 @@
+{
+  "name": "pixelart",
+  "cooldown": -1,
+  "items": [
+    {
+      "itemID": "PrinterBlock:TLPrinterBlock",
+      "stackSize": 1,
+      "damage": 0
+    },
+    {
+      "itemID": "minecraft:shears",
+      "stackSize": 1,
+      "damage": 0,
+      "compound": {
+        "c:ench": [
+          {
+            "i:lvl": 5,
+            "i:id": 32
+          }
+        ]
+      }
+    }
+  ],
+  "armor": [
+    null,
+    null,
+    null,
+    null
+  ]
+}

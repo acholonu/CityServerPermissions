@@ -1,0 +1,9 @@
+{
+  "name": "redstone",
+  "dimensionId": 12,
+  "provider": "normal",
+  "worldType": "flat",
+  "biomes": [],
+  "seed": -4621154676001762623,
+  "mapFeaturesEnabled": true
+}

@@ -1,0 +1,9 @@
+{
+  "name": "hubworld",
+  "dimensionId": 17,
+  "provider": "normal",
+  "worldType": "flat",
+  "biomes": [],
+  "seed": -5504505345713369253,
+  "mapFeaturesEnabled": true
+}

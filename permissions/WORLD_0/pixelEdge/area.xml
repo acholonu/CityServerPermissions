@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Data of area pixelEdge</comment>
+<entry key="name">pixelEdge</entry>
+<entry key="x2">55</entry>
+<entry key="id">12</entry>
+<entry key="x1">-56</entry>
+<entry key="z2">105</entry>
+<entry key="z1">-15</entry>
+<entry key="shape">BOX</entry>
+<entry key="y2">111</entry>
+<entry key="y1">61</entry>
+</properties>

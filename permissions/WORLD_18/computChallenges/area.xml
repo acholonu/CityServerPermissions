@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Data of area computChallenges</comment>
+<entry key="name">computChallenges</entry>
+<entry key="x2">194</entry>
+<entry key="id">32</entry>
+<entry key="x1">77</entry>
+<entry key="z2">-219</entry>
+<entry key="z1">-378</entry>
+<entry key="shape">BOX</entry>
+<entry key="y2">28</entry>
+<entry key="y1">3</entry>
+</properties>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Data of area pixelart</comment>
+<entry key="name">pixelart</entry>
+<entry key="x2">51</entry>
+<entry key="id">9</entry>
+<entry key="x1">-51</entry>
+<entry key="z2">101</entry>
+<entry key="z1">-11</entry>
+<entry key="shape">BOX</entry>
+<entry key="y2">103</entry>
+<entry key="y1">65</entry>
+</properties>

@@ -1,0 +1,48 @@
+{
+  "enabled": true,
+  "center": {
+    "x": -21,
+    "y": 64,
+    "z": -303
+  },
+  "size": {
+    "x": 1000,
+    "y": 0,
+    "z": 1000
+  },
+  "shape": "BOX",
+  "effects": [
+    {
+      "message": "You left the playing field. Please return!",
+      "interval": 6000,
+      "triggerDistance": 16,
+      "type": "EffectMessage"
+    },
+    {
+      "triggerDistance": 0,
+      "type": "EffectKnockback"
+    },
+    {
+      "triggerDistance": -1000,
+      "type": "EffectKick"
+    },
+    {
+      "potionEffects": [
+        {
+          "id": 9,
+          "duration": 5,
+          "modifier": 0
+        }
+      ],
+      "interval": 2000,
+      "triggerDistance": -1000,
+      "type": "EffectPotion"
+    },
+    {
+      "command": "/say @player Go back while you still can!",
+      "interval": 0,
+      "triggerDistance": -1000,
+      "type": "EffectCommand"
+    }
+  ]
+}

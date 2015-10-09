@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Data of area fossilMain</comment>
+<entry key="name">fossilMain</entry>
+<entry key="x2">-428</entry>
+<entry key="id">16</entry>
+<entry key="x1">-444</entry>
+<entry key="z2">120</entry>
+<entry key="z1">104</entry>
+<entry key="shape">BOX</entry>
+<entry key="y2">86</entry>
+<entry key="y1">74</entry>
+</properties>

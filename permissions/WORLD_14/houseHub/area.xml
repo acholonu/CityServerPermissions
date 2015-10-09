@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Data of area houseHub</comment>
+<entry key="name">houseHub</entry>
+<entry key="x2">-4</entry>
+<entry key="id">24</entry>
+<entry key="x1">-22</entry>
+<entry key="z2">5</entry>
+<entry key="z1">-13</entry>
+<entry key="shape">BOX</entry>
+<entry key="y2">15</entry>
+<entry key="y1">3</entry>
+</properties>

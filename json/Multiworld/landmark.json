@@ -1,0 +1,9 @@
+{
+  "name": "landmark",
+  "dimensionId": 13,
+  "provider": "normal",
+  "worldType": "flat",
+  "biomes": [],
+  "seed": -6974390409980098059,
+  "mapFeaturesEnabled": true
+}

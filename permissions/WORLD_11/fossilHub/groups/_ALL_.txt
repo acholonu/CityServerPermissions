@@ -1,0 +1,8 @@
+#Permissions for group _ALL_
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Fri Oct 09 14:04:59 CDT 2015
+fe.internal.zone.entry=Welcome to the excavation world, dig for fossils in here and then make dinosaur eggs. The eggs have to be hatched in a different world
+fe.protection.break.*=false
+fe.protection.interact.*=true
+fe.protection.place.*=false

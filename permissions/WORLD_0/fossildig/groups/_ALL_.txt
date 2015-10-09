@@ -1,0 +1,22 @@
+#Permissions for group _ALL_
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Fri Oct 09 14:04:59 CDT 2015
+fe.internal.spawn.location=[-144,64,-154,dim\=0]
+fe.internal.zone.entry=Welcome to the excavation area, dig for fossils in here
+fe.protection.inventorygroup=fossil
+fe.protection.mobspawn.natural.Blaze=false                              
+fe.protection.mobspawn.natural.CaveSpider=false                           
+fe.protection.mobspawn.natural.Creeper=false                             
+fe.protection.mobspawn.natural.EnderDragon=false                          
+fe.protection.mobspawn.natural.Enderman=false 
+fe.protection.mobspawn.natural.Ghast=false
+fe.protection.mobspawn.natural.LavaSlime=false                            
+fe.protection.mobspawn.natural.Mob=false                                  
+fe.protection.mobspawn.natural.Monster=false 
+fe.protection.mobspawn.natural.PigZombie=false 
+fe.protection.mobspawn.natural.Skeleton=false  
+fe.protection.mobspawn.natural.Spider=false     
+fe.protection.mobspawn.natural.Witch=false                                
+fe.protection.mobspawn.natural.WitherBoss=false 
+fe.protection.mobspawn.natural.Zombie=false                               

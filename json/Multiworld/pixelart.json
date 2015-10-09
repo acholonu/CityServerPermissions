@@ -1,0 +1,9 @@
+{
+  "name": "pixelart",
+  "dimensionId": 10,
+  "provider": "normal",
+  "worldType": "flat",
+  "biomes": [],
+  "seed": 4681507859989729549,
+  "mapFeaturesEnabled": false
+}

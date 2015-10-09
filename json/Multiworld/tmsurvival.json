@@ -1,0 +1,9 @@
+{
+  "name": "tmsurvival",
+  "dimensionId": 15,
+  "provider": "normal",
+  "worldType": "default",
+  "biomes": [],
+  "seed": 6812823841374316847,
+  "mapFeaturesEnabled": true
+}

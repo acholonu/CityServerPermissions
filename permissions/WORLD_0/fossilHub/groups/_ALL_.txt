@@ -1,0 +1,10 @@
+#Permissions for group _ALL_
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Fri Oct 09 14:04:59 CDT 2015
+fe.internal.zone.entry=Turn your fossils into DNA here and then make your own dino eggs
+fe.protection.break.*=false
+fe.protection.interact.*=true
+fe.protection.inventorygroup=fossil
+fe.protection.place.*=false
+fe.protection.zone.command=/capabilities %p allowedit false

@@ -1,0 +1,9 @@
+{
+  "name": "pvp",
+  "dimensionId": 16,
+  "provider": "normal",
+  "worldType": "default",
+  "biomes": [],
+  "seed": 8546425978984129652,
+  "mapFeaturesEnabled": true
+}

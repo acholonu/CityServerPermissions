@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Data of area tmsurvivalHub</comment>
+<entry key="name">tmsurvivalHub</entry>
+<entry key="x2">1044</entry>
+<entry key="id">26</entry>
+<entry key="x1">1026</entry>
+<entry key="z2">-1015</entry>
+<entry key="z1">-1033</entry>
+<entry key="shape">BOX</entry>
+<entry key="y2">110</entry>
+<entry key="y1">100</entry>
+</properties>

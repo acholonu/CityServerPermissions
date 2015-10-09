@@ -1,0 +1,13 @@
+#Permissions for group _ALL_
+#DO NOT MODIFY OR REMOVE fe.internal PERMISSIONS UNLESS YOU KNOW WHAT YOU DO!
+#After you modified permissions in this file, remember to directly run "/feperm reload", or the changes get overwritten next time permissions are saved by the server.
+#Fri Oct 09 14:04:59 CDT 2015
+fe.internal.multiworld=pvp
+fe.protection.break.*=false
+fe.protection.interact.*=true
+fe.protection.inventorygroup=pvp
+fe.protection.mobspawn.*=false
+fe.protection.needsfood=false
+fe.protection.place.*=false
+fe.protection.pvp=true
+fe.teleport.warmup=0

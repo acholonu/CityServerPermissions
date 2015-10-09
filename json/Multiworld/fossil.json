@@ -1,0 +1,9 @@
+{
+  "name": "fossil",
+  "dimensionId": 11,
+  "provider": "normal",
+  "worldType": "default",
+  "biomes": [],
+  "seed": 7721177513415318295,
+  "mapFeaturesEnabled": true
+}

@@ -1,0 +1,32 @@
+{
+  "name": "fossil",
+  "cooldown": 30,
+  "items": [
+    {
+      "itemID": "minecraft:torch",
+      "stackSize": 64,
+      "damage": 0
+    },
+    {
+      "itemID": "minecraft:torch",
+      "stackSize": 64,
+      "damage": 0
+    },
+    {
+      "itemID": "minecraft:diamond_shovel",
+      "stackSize": 1,
+      "damage": 0
+    },
+    {
+      "itemID": "minecraft:diamond_pickaxe",
+      "stackSize": 1,
+      "damage": 0
+    }
+  ],
+  "armor": [
+    null,
+    null,
+    null,
+    null
+  ]
+}
